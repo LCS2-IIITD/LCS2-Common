@@ -1,0 +1,14 @@
+user-name: user1
+IP of machine: 10.10.10.10
+
+How to access the machine?
+using ssh
+
+"ssh user1@10.10.10.10" #Ignore quotes on terminal.
+
+You can also use jupyterhub to render notebooks in python environment or access files.
+
+JupyterHub is available at 
+http://<ip>:8044/
+
+for ex. http://10.10.10.10:8044
