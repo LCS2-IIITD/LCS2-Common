@@ -4,7 +4,7 @@
 Repo for Links and resources related to LCS2 server, reading group, events calendar.
 
 # Reading Group
-Current Time: Friday 4PM - 5PM, On meets.
+Current Time: Thursday, 1.30PM - 3PM. @LCS2, R & D Building, IIITD.
 
 ## Talk Schedule
 
@@ -24,7 +24,7 @@ Current Time: Friday 4PM - 5PM, On meets.
 
 
 
-### Presentations:
+### Presentation Archives:
 Slides from talks are updated [here](https://drive.google.com/drive/folders/1__p6NWTCM2qAqBhSuE7XsdXMZAnUrFQk).
 ### Suggested Papers:
 We maintain a pool of suggested papers [here](https://docs.google.com/spreadsheets/d/1SMzWuNEBQVDKY94v--ciUuyya3NMdlWnt-qtqbUueMM/edit?usp=sharing).
