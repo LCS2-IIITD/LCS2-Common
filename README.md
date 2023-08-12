@@ -10,7 +10,7 @@ Current Time: Monday, 6-7.30 PM. @A-420, R & D Building, IIITD.
 
 | Date       | Presenter     |  Topic     | Resource Links |
 |-------------|--------|--------|---------|
-| 7/8/2023 | *LCS2 Members*:  Indrayudh, Neeraj & Shivani | Bahandanu, Vaswani, Flash, Flash2  | [Resources](https://drive.google.com/drive/u/0/folders/15U4-pSqbfkhlLWrzzfbj4uuT-96XWKDO)
+| 7/8/2023 | *LCS2 Members*:  Indrayudh, Neeraj & Shivani | Bahandanu, Vaswani, Flash, Flash2  | [Resources](https://drive.google.com/drive/u/0/folders/15U4-pSqbfkhlLWrzzfbj4uuT-96XWKDO) |
 
 
 | 4/9/2020 | **Guest Speaker**: Tulika Saha, IIT-Patna :india:| Dialogue Management Strategy |-|
