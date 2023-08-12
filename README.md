@@ -4,12 +4,15 @@
 Repo for Links and resources related to LCS2 server, reading group, events calendar.
 
 # Reading Group
-Current Time: Thursday, 1.30PM - 3PM. @LCS2, R & D Building, IIITD.
+Current Time: Monday, 6-7.30 PM. @A-420, R & D Building, IIITD.
 
 ## Talk Schedule
 
 | Date       | Presenter     |  Topic     | Resource Links |
 |-------------|--------|--------|---------|
+| 7/8/2023 | *LCS2 Members*:  Indrayudh, Neeraj & Shivani | Bahandanu, Vaswani, Flash, Flash2  | [Resources](https://drive.google.com/drive/u/0/folders/15U4-pSqbfkhlLWrzzfbj4uuT-96XWKDO)
+
+
 | 4/9/2020 | **Guest Speaker**: Tulika Saha, IIT-Patna :india:| Dialogue Management Strategy |-|
 | 11/9/2020 | *LCS2 Members*: Shivani & Sanjana | Introduction to BERT | [BERT Paper](https://arxiv.org/pdf/1810.04805.pdf) |
 | 18/9/20 | *LCS2 Members*: Abdul & Aseem | Discussion on GPT |[GPT Blog](https://huggingface.co/transformers/model_doc/gpt.html), [GPT Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) |
@@ -21,6 +24,8 @@ Current Time: Thursday, 1.30PM - 3PM. @LCS2, R & D Building, IIITD.
 | 20/11/2020 | *LCS2 Members*: Abdul & Yash | Discussion on T5 | [T5 Paper](https://arxiv.org/pdf/1910.10683.pdf), [Mesh Tensorflow](https://arxiv.org/abs/1811.02084), [T5 Repo](https://github.com/google-research/text-to-text-transfer-transformer), [Mesh Tensorflow](https://github.com/tensorflow/mesh) |
 | 27/11/2020 | *LCS2 Members*: Manjot & Aseem | Hands-on session on BART| [BART Paper](https://ai.facebook.com/research/publications/bart-denoising-sequence-to-sequence-pre-training-for-natural-language-generation-translation-and-comprehension/), [Hugging Face Implementation](https://huggingface.co/transformers/model_doc/bart.html) |
 | 4/12/2020 | *LCS2 Members*:  Ganeshan & Shivani | Discussion on DialoGPT | [DialoGPT Paper](https://arxiv.org/abs/1911.00536), [Code](https://huggingface.co/transformers/model_doc/dialogpt.html)|
+
+
 
 
 
