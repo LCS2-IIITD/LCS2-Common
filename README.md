@@ -29,5 +29,6 @@ Current Time: Monday, 6-7.30 PM. @A-420, R & D Building, IIITD.
 
 ### Presentation Archives:
 Slides from talks are updated [here](https://drive.google.com/drive/folders/1__p6NWTCM2qAqBhSuE7XsdXMZAnUrFQk).
+Other Relevant resources are maintained [here](https://drive.google.com/drive/u/0/folders/1rYTxTxLY9iAqj2dcTk1mKAO6nWGsxrO-)
 ### Suggested Papers:
-We maintain a pool of suggested papers [here](https://docs.google.com/spreadsheets/d/1BkVpsIs9reOGooat7gTFisEMyb_ZV7fwy_vTPtC0--s/edit#gid=2065871435).
+We maintain a pool of suggested papers and resources [here](https://docs.google.com/spreadsheets/d/1BkVpsIs9reOGooat7gTFisEMyb_ZV7fwy_vTPtC0--s/edit#gid=2065871435).
