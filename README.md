@@ -10,6 +10,8 @@ Current Time: Monday, 6-7.30 PM. @A-420, R & D Building, IIITD.
 
 | Date       | Presenter     |  Topic     | Resource Links |
 |-------------|--------|--------|---------|
+| 21/8/2023 | *LCS2 Members*:  Aseem & Ayush | InstructGPT(RLHF, PPO) and TRL  | [Resources](https://drive.google.com/drive/u/0/folders/1Nl3KG-fQLVkachNAn7yEwBxl1ydcC3-y) |
+| 14/8/2023 | *LCS2 Members*:  Gauri & Shubhanshu | LLMs - Applications, Survey (Bert, Elmo, GPT, BARD, etc.)  | [Resources](https://drive.google.com/drive/u/0/folders/1j8kiqEDsRKXaoduxAD-1VGKUOD-rMF2D) |
 | 7/8/2023 | *LCS2 Members*:  Indrayudh, Neeraj & Shivani | Attention-Transformers : Bahandanu, Vaswani, Flash, Flash2  | [Resources](https://drive.google.com/drive/u/0/folders/15U4-pSqbfkhlLWrzzfbj4uuT-96XWKDO) |
 | 4/9/2020 | **Guest Speaker**: Tulika Saha, IIT-Patna :india:| Dialogue Management Strategy |-|
 | 11/9/2020 | *LCS2 Members*: Shivani & Sanjana | Introduction to BERT | [BERT Paper](https://arxiv.org/pdf/1810.04805.pdf) |
