@@ -10,6 +10,7 @@ Current Time: Monday, 6-7.30 PM. @A-420, R & D Building, IIITD.
 
 | Date       | Presenter     |  Topic     | Resource Links |
 |-------------|--------|--------|---------|
+| 04/9/2023 | *LCS2 Members*:  Sarah, Aflah & Neelabh | ACL Explore: Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection   | [Resources](https://drive.google.com/drive/u/0/folders/12hQvl-EMk6R1iUj4yugQgRGEQC0k98_B) |
 | 04/9/2023 | *LCS2 Members*:  Megha, Siddhant, Manav & Indraayudh | Prompt Engineering, Prompt Tuning   | [Resources](https://drive.google.com/drive/u/0/folders/1BH5quxhGzd6RYRfneU-SDVhqusqKYkpr) |
 | 28/8/2023 | *LCS2 Members*:  Amey, Neemesh & Neelabh | Advanced LLMs - Llamma, Alpacha, Vicuna, LLava   | [Resources](https://drive.google.com/drive/u/0/folders/1vlBe2mghS5M4NKa5yl0uoWt-bEu8CnGO) |
 | 21/8/2023 | *LCS2 Members*:  Aseem & Ayush | InstructGPT(RLHF, PPO) and TRL  | [Resources](https://drive.google.com/drive/u/0/folders/1Nl3KG-fQLVkachNAn7yEwBxl1ydcC3-y) |
